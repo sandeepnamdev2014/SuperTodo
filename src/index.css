@@ -1,0 +1,12 @@
+body{
+    margin:0;
+    font-family: 'Noto Sans JP', sans-serif;
+    }
+    hr{
+        color: #e0e0e0;
+    }
+    h1{
+        font-size: 20px;
+        margin:20px 0px 10px;
+        font-weight: bold;
+    }

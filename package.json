@@ -1,0 +1,20 @@
+{
+  "name": "super-todo",
+  "version": "1.0.0",
+  "description": "React js application ",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./public/index.html"
+  },
+  "author": "Sandeep Namdev",
+  "license": "ISC",
+  "dependencies": {
+    "history": "^4.10.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-router-dom": "^5.1.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}

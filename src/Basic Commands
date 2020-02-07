@@ -1,0 +1,4 @@
+1. npm init -> it created package.json file
+2. npm install react react-dom -> it basicall added dependencies in package.json file
+3. npm install parcel-bundler --save-dev -> installed parcel bundler and saved it as dev dependencies
+4. npm run start -> need to add "start": "parcel ./public/index.html" script section in package.json file.

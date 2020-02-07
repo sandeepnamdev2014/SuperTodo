@@ -1,0 +1,17 @@
+.top-bar{
+    background-color: #ec407a;
+    height:42px;
+    width: 100%;
+}
+
+.logo{
+    color: #fff;
+    font-size: 24px;
+    line-height: 42px;
+    font-family: 'Supermercado One', cursive;}
+
+.std-width{
+        width:960px;
+        margin:0px auto;
+    }
+    
